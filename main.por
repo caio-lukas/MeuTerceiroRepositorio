@@ -5,5 +5,11 @@ programa {
 		retorne 0
 	
 	}
+	
+	funcao imprimirBob(){
+		
+		Escreva("Bob")
+		
+	}
 
 }
